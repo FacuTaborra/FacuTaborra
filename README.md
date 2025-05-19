@@ -1,15 +1,29 @@
-### I'm Facundo Taborra, I'm 23 years old, I'm studying systems engineering and I studied full stack web development course
-<!--
-**FacuTaborra/FacuTaborra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Facundo Taborra
 
-Here are some ideas to get you started:
+🎓 I'm a Systems Engineering student at UTN (Rosario, Argentina), currently finishing my degree (2 subjects + thesis pending).  
+💻 I completed a Full Stack Web Development course at Digital House, with focus on JavaScript, React, Node.js, and databases.  
+🧠 I'm passionate about software development, system automation, and currently specializing in Data Science and Applied AI.  
 
-- 🔭 I do not work becouse i'm dedicating my full time to study
-- 🌱 I’m currently learning about full stack web development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: taborrafacundo@gmail.com  
-- 😄 Pronouns: Facu
-- ⚡ Fun fact: 
--->
+## 🚀 Projects & Technologies
+
+- 🛠️ **Taborra Alarmas Chatbot** – AI-based assistant for alarm monitoring and camera analysis via WhatsApp (Python, FastAPI, OpenAI, LangGraph, Home Assistant)  
+  [🔗 GitHub Repo](https://github.com/FacuTaborra/TaborraAlarmas-Chatbot)
+
+- 🧠 **FastServices Marketplace** – Final university project, integrating React + Node.js backend with upcoming AI-powered service recommendation and internal chat.  
+  [🔗 GitHub Repo](https://github.com/Facutobarra/FastServices)
+
+- 🧪 **Proxmox Lab Infrastructure** – Automated personal lab for secure service hosting with Docker, TLS, VPN, backups & monitoring.
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, JavaScript, Bash  
+- **Frameworks & Tools:** React, Node.js/Express, FastAPI, Git/GitHub  
+- **Infrastructure:** Linux, Docker, Proxmox VE, Nginx Proxy Manager  
+- **Data:** MySQL, Redis, PostgreSQL, Pandas, EDA, Logistic Regression
+
+## 📫 Let's connect!
+
+- 📧 Email: taborrafacundo@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/facundo-taborra/)  
+- 🐍 [GitHub](https://github.com/FacuTaborra)
+
