@@ -10,8 +10,7 @@
   [🔗 GitHub Repo](https://github.com/FacuTaborra/TaborraAlarmas-Chatbot)
 
 - 🧠 **FastServices Marketplace** – Final university project, integrating React + Node.js backend with upcoming AI-powered service recommendation and internal chat.  
-  [🔗 GitHub Repo](https://github.com/Facutobarra/FastServices)
-
+  [🔗 GitHub Repo](https://github.com/FacuTaborra/FastServices2.0)
 - 🧪 **Proxmox Lab Infrastructure** – Automated personal lab for secure service hosting with Docker, TLS, VPN, backups & monitoring.
 
 ## 🧰 Tech Stack
