@@ -7,7 +7,7 @@
 ## 🚀 Projects & Technologies
 
 - 🛠️ **Taborra Alarmas Chatbot** – AI-based assistant for alarm monitoring and camera analysis via WhatsApp (Python, FastAPI, OpenAI, LangGraph, Home Assistant)  
-  [🔗 GitHub Repo](https://github.com/FacuTaborra/TaborraAlarmas-Chatbot)
+  [🔗 GitHub Repo](https://github.com/FacuTaborra/ChatbotTaborraAlarmas)
 
 - 🧠 **FastServices Marketplace** – Final university project, integrating React + Node.js backend with upcoming AI-powered service recommendation and internal chat.  
   [🔗 GitHub Repo](https://github.com/FacuTaborra/FastServices2.0)
