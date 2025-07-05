@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Facundo Taborra
 
-🎓 I'm a Systems Engineering student at UTN (Rosario, Argentina), currently finishing my degree (2 subjects + thesis pending).  
+🎓 I'm a Systems Engineering student at UTN (Rosario, Argentina), currently finishing my degree (1 subjects + thesis pending).  
 💻 I completed a Full Stack Web Development course at Digital House, with focus on JavaScript, React, Node.js, and databases.  
 🧠 I'm passionate about software development, system automation, and currently specializing in Data Science and Applied AI.  
 
