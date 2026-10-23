@@ -1,28 +1,27 @@
-# 👋 Hi, I'm Facundo Taborra
+# Facundo Taborra
 
-🎓 I'm a Systems Engineering student at UTN (Rosario, Argentina), currently finishing my degree (1 subjects + thesis pending).  
-💻 I completed a Full Stack Web Development course at Digital House, with focus on JavaScript, React, Node.js, and databases.  
-🧠 I'm passionate about software development, system automation, and currently specializing in Data Science and Applied AI.  
+I'm Systems Engineer (UTN Rosario) and cloud Data Engineer. By day I work with data and pipelines, by night with servers and automations in my homelab.
 
-## 🚀 Projects & Technologies
+## What I work on
 
-- 🛠️ **Taborra Alarmas Chatbot** – AI-based assistant for alarm monitoring and camera analysis via WhatsApp (Python, FastAPI, OpenAI, LangGraph, Home Assistant)  
-  [🔗 GitHub Repo](https://github.com/FacuTaborra/ChatbotTaborraAlarmas)
+- Data pipelines and data warehouses on Google Cloud, integrating ERPs, APIs and databases from different systems.
+- Decoupled architectures with queues and workers on containers.
+- AI agents applied to data analysis and customer support.
+- Web development and APIs, with a focus on keeping things simple to maintain.
+- Self-hosted infrastructure: Proxmox, Docker, VPN and self-hosted services.
 
-- 🧠 **FastServices Marketplace** – Final university project, integrating React + Node.js backend with upcoming AI-powered service recommendation and internal chat.  
-  [🔗 GitHub Repo](https://github.com/FacuTaborra/FastServices2.0)
-- 🧪 **Proxmox Lab Infrastructure** – Automated personal lab for secure service hosting with Docker, TLS, VPN, backups & monitoring.
+## Stack
 
-## 🧰 Tech Stack
+- **Data:** BigQuery, dbt, Airflow, dlt, SQL, Metabase, PostgreSQL
+- **Cloud and infra:** GCP, Azure, Terraform, Docker, Linux, Proxmox
+- **Development:** Python, FastAPI, Next.js, React, JavaScript
+- **AI:** LangGraph, LangChain, RAG, OpenAI API, Vercel AI SDK
 
-- **Languages:** Python, JavaScript, Bash  
-- **Frameworks & Tools:** React, Node.js/Express, FastAPI, Git/GitHub  
-- **Infrastructure:** Linux, Docker, Proxmox VE, Nginx Proxy Manager  
-- **Data:** MySQL, Redis, PostgreSQL, Pandas, EDA, Logistic Regression
+## Currently
 
-## 📫 Let's connect!
+Preparing for the Google Cloud Professional Data Engineer certification and studying machine learning, with a master's in data on the radar for 2027.
 
-- 📧 Email: taborrafacundo@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/facundo-taborra/)  
-- 🐍 [GitHub](https://github.com/FacuTaborra)
+## Contact
 
+- Email: taborrafacundo@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/facundo-taborra/)
